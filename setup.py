@@ -16,6 +16,6 @@ setup(
         'pyyaml >= 3.13'
     ],
     extras_require = {
-        'tensorflow >= 1.14.0'
+        'tensorflow' : 'tensorflow >= 1.14.0'
     }
 )
